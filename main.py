@@ -20,7 +20,7 @@ def readData(file):
 def debugOut(message):
     global debug
     if debug == True:
-        print(f"debug: {message}") 
+        print(f"debug: {message}")
 debug = True
 
 
